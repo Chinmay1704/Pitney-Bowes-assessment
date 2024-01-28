@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pitney-Bowes-assessment/static/css/main.a92d6f5e.css",
+    "main.js": "/Pitney-Bowes-assessment/static/js/main.885d40ab.js",
+    "static/js/787.64ffda4a.chunk.js": "/Pitney-Bowes-assessment/static/js/787.64ffda4a.chunk.js",
+    "static/media/piechart.png": "/Pitney-Bowes-assessment/static/media/piechart.501c04968e04c7c74c33.png",
+    "static/media/timeline.png": "/Pitney-Bowes-assessment/static/media/timeline.7cb5f7d39aa9035aca3a.png",
+    "index.html": "/Pitney-Bowes-assessment/index.html",
+    "main.a92d6f5e.css.map": "/Pitney-Bowes-assessment/static/css/main.a92d6f5e.css.map",
+    "main.885d40ab.js.map": "/Pitney-Bowes-assessment/static/js/main.885d40ab.js.map",
+    "787.64ffda4a.chunk.js.map": "/Pitney-Bowes-assessment/static/js/787.64ffda4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92d6f5e.css",
+    "static/js/main.885d40ab.js"
+  ]
+}
