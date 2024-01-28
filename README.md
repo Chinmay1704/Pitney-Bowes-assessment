@@ -2,7 +2,7 @@
 
 Financial Dashboard is a web application built using React.js that provides users with a comprehensive view of their financial data, including portfolio overview, FD maturity timeline, and information about various financial institutions.
 
-##Features
+## Features
 Navigation: Easy navigation through different sections of the dashboard.
 User Profile Management: Access and manage user profile information.
 Financial Information: Display of FD portfolio and maturity timeline.
